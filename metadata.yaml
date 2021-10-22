@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3581'
     url: http://www.gutenberg.org/2009/agents/3581
     wikipedia: https://en.wikipedia.org/wiki/Charles_Duke_Yonge
+covers:
+- cover_type: archival
+  image_path: 66508-h/images/cover.jpg
 creator:
   author:
     agent_name: Athenaeus, of Naucratis
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38538
     wikipedia: https://en.wikipedia.org/wiki/Athenaeus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66508#The-Deipnosophists-or-Banquet-of-the-Learned-of-Athen0xe6us-Vol-3-of-3
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66508'
